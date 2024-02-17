@@ -1,0 +1,1 @@
+	This C++ project simulates an ATM system, allowing users to check balances, withdraw cash, view user details, and update phone numbers. It features a basic menu-driven interface and user authentication based on account number and PIN.
